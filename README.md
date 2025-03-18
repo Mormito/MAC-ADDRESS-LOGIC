@@ -15,3 +15,6 @@ Exemplo:
 Caso endereco != redereal -> "Host inativo".
 
 Da forma que fiz é como se qualquer endereço colocado estivesse conectado a "rede" de computadores; como eu já disse, é bem basico e feito apenas para conceito de MAC ADDRESS.
+<br><br>
+
+<a href="https://pokemondb.net/pokedex/rotom"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/rotom.gif" alt="Rotom"></a>
